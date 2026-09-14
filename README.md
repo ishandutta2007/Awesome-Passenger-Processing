@@ -63,7 +63,7 @@ Production-grade biometric border control and passenger departure control system
 
 The repositories below are sorted by **GitHub Star Count (Descending)** ⭐.
 
-| Project / Repository 🛠️ | Star Count ⭐ | Category / Description 📝 | Primary Tech Stack ⚙️ |
+| Project / Repository 🛠️ | Star_Count ⭐ | Category / Description 📝 | Primary Tech Stack ⚙️ |
 | :--- | :--- | :--- | :--- |
 | **[ageitgey/face_recognition](https://github.com/ageitgey/face_recognition)** | [![GitHub_Stars](https://img.shields.io/github/stars/ageitgey/face_recognition?style=social&color=white)](https://github.com/ageitgey/face_recognition/stargazers) | World's simplest facial recognition API for Python & CLI. Powers experimental check-in and facial identification PoCs. | Python, dlib, C++ |
 | **[deepinsight/insightface](https://github.com/deepinsight/insightface)** | [![GitHub_Stars](https://img.shields.io/github/stars/deepinsight/insightface?style=social&color=white)](https://github.com/deepinsight/insightface/stargazers) | State-of-the-art 2D/3D deep face analysis and facial recognition toolkit suitable for high-accuracy biometric gates. | Python, PyTorch, ONNX |
@@ -95,7 +95,7 @@ If you are prototyping an open passenger processing or biometric travel system, 
 
 1. 🍴 **Fork** the repository.
 2. ✏️ Add or update entries in `README.md` keeping the formatting consistent.
-3. 🏷️ Ensure **SaaS products** are added with company scale estimates and pricing info, and **Open-Source tools** include their GitHub Stars_Badges.
+3. 🏷️ Ensure **SaaS products** are added with company scale estimates and pricing info, and **Open-Source tools** include their GitHub_Stars_Badges.
 4. 📩 Submit a **Pull Request** with a brief explanation.
 
 ---
